@@ -1,8 +1,13 @@
 # Caminhadas_Calorias
 
-# Prints 
+# Prints
+### Tela inicial
+![Tela inicial](assets/Home-Claro.jpg)
+![Tela inicial (Tema:Escuro)](assets/Home-Escuro.jpg)
 
+### Caminhada
+![Pagina inicial](assets/Paginal-Inicial.jpg)
 
-
-![Uploading Editar.jpeg…]()
-
+### Edição
+![Editar](assets/Editar.jpeg)
+![Nova Caminhada](assets/Nova.jpg)
